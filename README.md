@@ -1,3 +1,5 @@
+**Documentation in Wiki**
+
 # Building a Better Tomorrow with A.I.
 
 ## Blueprints for a Collapse Proof Community
